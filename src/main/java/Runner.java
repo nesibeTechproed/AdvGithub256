@@ -9,6 +9,7 @@ public class Runner {
         System.out.println("nesibe 1");
         System.out.println("nesibe 2");
         System.out.println("nesibe 2");
+        System.out.println("nesibe 3");
 
 
     }
