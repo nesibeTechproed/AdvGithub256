@@ -15,7 +15,10 @@ public class Runner {
         System.out.println("masterda commit");
 
          //remoteda commit
+
+        System.out.println("dev1 nin taski çözüldü.");
         //dev 2 nin commiti
+
 
     }
 }
