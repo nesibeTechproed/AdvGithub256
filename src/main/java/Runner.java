@@ -11,6 +11,10 @@ public class Runner {
         System.out.println("nesibe 2");
         System.out.println("nesibe 3");
 
+
         System.out.println("masterda commit");
+
+         //remoteda commit
+
     }
 }
